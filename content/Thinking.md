@@ -1,6 +1,6 @@
 ---
 title: Thinking
-draft: false
+draft: true
 tags:
 ---
  
@@ -42,3 +42,5 @@ So this is for multiple lines.
 
 Ok so this works also 
 direct drag and drop.
+
+OK so obsidian drag n drop might not work in the blog.
