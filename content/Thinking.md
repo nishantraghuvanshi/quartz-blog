@@ -1,5 +1,5 @@
 ---
-title: TagPage
+title: Thinking
 draft: false
 tags:
 ---
@@ -38,7 +38,7 @@ So this is for multiple lines.
 ```
 
 
-
+![[avatar pic.jpg]]
 
 Ok so this works also 
 direct drag and drop.
