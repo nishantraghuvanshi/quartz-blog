@@ -38,7 +38,6 @@ So this is for multiple lines.
 ```
 
 
-![[avatar pic.jpg]]
 
 
 Ok so this works also 
