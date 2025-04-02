@@ -5,3 +5,5 @@ tags:
 ---
  
 Hello world this is me just doing stuff.
+
+[[Thinking.md]]
